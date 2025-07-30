@@ -197,7 +197,7 @@ onMounted(() => {
     { id: 1, name: 'ACTIVOS' },
     { id: 0, name: 'INACTIVOS' },
   ]
-
+/Users/svr/Documents/Assist_Frontend/src/views/branches/List.vue
   filterOptions.value = [{ id: 0, name: 'TODOS' }]
 
   getItems()
